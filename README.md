@@ -40,9 +40,9 @@ To use the DrumKit project locally:
    cd drumkit-project
    ```
 
-3. Open the `index.html` file in your web browser to start using the DrumKit application.
+3. Open the `index.html` file in your web browser to start using druming!
 
-Credits
+
 This project was developed as a practice exercise for learning HTML, CSS, and JavaScript, focusing on creating interactive drum pads and managing audio playback.
 Happy drumming! 🥁
  
